@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: '/react-prueba/'
+  base: "/react-prueba"
 })
