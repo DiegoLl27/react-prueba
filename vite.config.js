@@ -12,4 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
+  base: 'https://diegoll27.github.io/react-prueba/'
 })
